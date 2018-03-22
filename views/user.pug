@@ -1,0 +1,21 @@
+extends layout
+block content
+      style.
+        table { width: 100%; }
+        th, tr, td {
+          border: 1px solid black;
+          padding: 10px;
+          margin: 10px;
+        }
+      .wrapper
+           form.form-signin(method='', action='')
+             h3.form-signin-heading Nodejs MySQL Login Script
+             h5 Welcome: #{full_name} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; 
+              a(href='/logout') Logout
+             table
+                tr
+                    th Username
+                    th Full Name
+                tr
+                    td  #{username}
+                    td  #{full_name}

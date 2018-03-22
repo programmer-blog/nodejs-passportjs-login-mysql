@@ -40,7 +40,7 @@ You can read detailed tutorial on our blog: http://programmerblog.net/nodejs-pas
         
  MySQL Script for Creating Database and Users table with sample data
         
-        ```
+        
              create database db_users;
 
               -- --------------------------------------------------------
@@ -91,7 +91,6 @@ You can read detailed tutorial on our blog: http://programmerblog.net/nodejs-pas
               ALTER TABLE `tbl_users`
                 MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=2;
         
-          ```
-        
+         
         
      

@@ -1,9 +1,9 @@
 # nodejs-passportjs-login-mysql
 Programmer Blog: https://programmerblog.net/
 
-     Source code for article on NodeJS PassportJS login with MySQL.
+Source code for article on NodeJS PassportJS login with MySQL.
 
-     You can read detailed tutorial on our blog: http://programmerblog.net/nodejs-passport-login-mysql/
+You can read detailed tutorial on our blog: http://programmerblog.net/nodejs-passport-login-mysql/
      
         Install MySQL and PHPMyAdmin 
       
@@ -36,9 +36,9 @@ Programmer Blog: https://programmerblog.net/
 
         Create a NodeJS passportJS login script with MySQL.
         
-        Read More at: http://programmerblog.net/nodejs-passport-login-mysql/
+ Read More at: http://programmerblog.net/nodejs-passport-login-mysql/
         
-        MySQL Script for Creating Database and Users table with sample data
+ MySQL Script for Creating Database and Users table with sample data
         
         ```
              create database db_users;
